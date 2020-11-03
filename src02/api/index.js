@@ -1,4 +1,4 @@
-import Ajax from '@/api/node_modules/@/ajax/Ajax'
+import Ajax from '@/api/node_modules/@/api/node_modules/@/ajax/Ajax'
 
  export const  reqCategoryList = () =>{
   return Ajax({
